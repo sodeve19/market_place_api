@@ -5,3 +5,7 @@ This app follows the book APIS ON RAILS.
 The original repository is in:
 
   https://github.com/kurenn/market_place_api/
+
+Every branch is a chapter:
+
+* setting-api => Chapter 1
